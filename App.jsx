@@ -1,18 +1,21 @@
+
 import React from 'react'
-import Mail from './Components/Mail'
+import Functionalinputs from './Components/Functionalinputs'
+import './index.css'
 
 function App() {
   return (
     <div>
-      <div className='px-2 py-2'>
-      Please share your feedback for this page.
+      <div className='header'>
+        Grievances Form - for Complaints relating to content and
       </div>
-      <div className='px-2 py-2'>
-        *Email
+      <div className='header1'>
+        Consumer Complaints.
       </div>
-     <Mail/> 
+      <Functionalinputs/>
     </div>
   )
 }
 
 export default App
+          

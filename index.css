@@ -1,3 +1,15 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+.header{
+    color:#a0441f;
+    font-size: 25px;
+    font-weight: 100;
+    margin-left: 190px;
+}
+.header1{
+    color: #a0441f;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-left: 190px;
+}
+
+
+   

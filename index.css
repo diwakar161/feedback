@@ -1,0 +1,133 @@
+ .header{
+  align-items: center;
+  margin-left: 5vw;
+   
+  
+  
+ }   
+       
+ .header1{
+    color:#cf5808;
+    font-size: 25px;
+    font-weight: 500;
+    
+    margin-left: 190px;
+}
+.header2{
+    color: #cf5808;
+    font-size: 25px;
+    margin-left: 10px;
+    margin-left: 190px;
+    font-weight: 500;
+}
+
+
+.inputfeed{
+    margin-left: 22vw;
+    display: flex;
+    position: relative;
+    
+}
+.nameput{
+    font-size:0.9vw;
+    letter-spacing: 0.05vw;
+    font-family: arial;
+    margin-top: 20px
+    
+    
+    
+    
+}
+.emailfeed{
+    font-size:0.9vw;
+    letter-spacing: 0.05vw;
+    font-family:arial ;
+       
+
+}
+.contactfeed{
+    font-size:0.9vw;
+    letter-spacing: 0.05vw;
+    font-family: arial;
+    
+    
+}
+.options{
+    font-size: 1vw;
+    letter-spacing: 0.04vw;
+}
+.urlput{
+    font-size: 1vw;
+    letter-spacing: 0.04vw;
+} 
+.concern{
+    font-size: 1vw;
+    letter-spacing: 0.04vw;
+    
+
+}
+.opt{
+    font-size: 1vw;
+    letter-spacing: 0.04vw;
+    font-weight: 400;
+    font-style: normal;
+}
+.area{
+    font-size: 1vw;
+    letter-spacing: 0.04vw; 
+}
+.upload{
+    font-size: 1vw;
+    letter-spacing: 0.06vw;
+    margin-left: -9vw;
+    
+    
+    
+     
+}
+.btn{
+text-align: center;
+color: black;
+font-weight: 800;
+font-size:1vw;
+padding: 0.5vw;
+padding-left: 0.7vw;
+padding-right: 0.7vw;
+
+}
+.star{
+    font-size: large;
+    color: rgb(245, 80, 14);
+}
+.star1{
+
+    font-size: medium;
+    color: rgb(245, 80, 14);
+    
+}
+.corner{
+    margin-left: 75vw;
+    margin-bottom: -1.5vw;
+    flex-wrap: wrap;
+     position: absolute;
+     
+}
+
+   .scrollup{
+    margin-left: 65vw;
+    
+    padding: 0.4vw;
+    
+    
+   }
+.line{
+    
+    opacity: 0.3;
+    width: 60%;
+    align-items: center;
+    margin-left: 13vw;
+    
+    
+    
+    
+}

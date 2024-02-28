@@ -1,0 +1,150 @@
+ .header{
+  align-items: center;
+  margin-left: 5vw;
+   
+  
+  
+ }   
+       
+ .header1{
+    color: #df730f;
+    font-size: 1.8vw;
+    font-weight: 500;
+    
+    margin-left: 190px;
+}
+.header2{
+    color:#df730f;
+    font-size: 1.8vw;
+    margin-left: 10px;
+    margin-left: 190px;
+    font-weight: 500
+    
+}
+
+
+.inputfeed{
+    margin-left: 22vw;
+    display: flex;
+    position: relative;
+    
+}
+.nameput{
+    font-size:0.9vw;
+    
+    font-family: verdana;
+    margin-top: 20px
+    
+    
+    
+    
+}
+.box1{
+   width: 15vw
+}
+
+.emailfeed{
+    font-size:0.9vw;
+    
+    font-family:verdana ;
+       
+
+}
+.contactfeed{
+    font-size:0.9vw;
+    
+    font-family: verdana;
+    
+    
+}
+.options{
+    font-size: 0.9vw;
+    font-family: verdana;
+}
+.urlput{
+    font-size: 0.9vw;
+    font-family: verdanA;
+} 
+.concern{
+    font-size: 0.9vw;
+    font-family: verdana;
+    padding-bottom: 0.3vw;
+    
+    
+
+}
+.opt{
+    font-size: 0.9vw;
+    
+    font-weight: lighter;
+    font-family: verdana;
+}
+.area{
+    font-size: 0.95vw;
+    font-family: verdana; 
+    font-weight: lighter;
+}
+.pertain{
+    font-size: 0.9vw;
+    font-family: verdana;
+    font-weight: lighter;
+}
+.upload{
+    font-size: 0.9vw;
+    font-family: verdana;
+    margin-left: -9vw;
+    font-weight: lighter;
+    
+    
+     
+}
+.btn{
+text-align: center;
+color: black;
+font-weight: 800;
+font-size:1vw;
+padding: 0.5vw;
+padding-left: 0.7vw;
+padding-right: 0.7vw;
+
+}
+.star{
+    font-size: large;
+    color: rgb(245, 80, 14);
+}
+.star1{
+
+    font-size: medium;
+    color: rgb(245, 80, 14);
+    
+}
+.corner{
+    margin-left: 75vw;
+    margin-bottom: -1.5vw;
+    flex-wrap: wrap;
+    position: relative;
+    font-weight: 600;
+    font-size: 0.8vw;
+    font-family:verdana ;
+     
+     
+     
+}
+
+   .scrollup{
+    margin-left: 65vw;
+     padding: 0.4vw;
+    
+    
+   }
+.line{
+    
+    opacity: 0.3;
+    width: 60%;
+    align-items: center;
+    margin-left: 13vw;
+    
+    
+    
+    
+}
